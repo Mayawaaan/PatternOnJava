@@ -13,6 +13,8 @@ public class Pattern {
         Pattern8 mObject8 = new Pattern8(5);
         Pattern9 mObject9 = new Pattern9(5);
         Pattern10 mObject10 = new Pattern10(5);
+        Pattern11 mObject11 = new Pattern11(5);
+        Pattern12 mObject12 = new Pattern12(5);
         System.out.println(mObject1);
         System.out.println(mObject2);
         System.out.println(mObject3);
@@ -23,5 +25,7 @@ public class Pattern {
         System.out.println(mObject8);        
         System.out.println(mObject9);
         System.out.println(mObject10);
+        System.out.println(mObject11);
+        System.out.println(mObject12);
     }
 }
