@@ -1,7 +1,4 @@
-public class Pattern {
-
-    
-    
+public class Pattern {    
     public static void main(String[] args) {
         Pattern1 mObject1 = new Pattern1(5);
         Pattern2 mObject2 = new Pattern2(5);
@@ -15,6 +12,11 @@ public class Pattern {
         Pattern10 mObject10 = new Pattern10(5);
         Pattern11 mObject11 = new Pattern11(5);
         Pattern12 mObject12 = new Pattern12(5);
+        Pattern13 mObject13 = new Pattern13(5);
+        Pattern14 mObject14 = new Pattern14(5);
+        Pattern15 mObject15 = new Pattern15(5);
+        Pattern16 mObject16 = new Pattern16(5);
+        Pattern17 mObject17 = new Pattern17(5);
         System.out.println(mObject1);
         System.out.println(mObject2);
         System.out.println(mObject3);
@@ -27,5 +29,10 @@ public class Pattern {
         System.out.println(mObject10);
         System.out.println(mObject11);
         System.out.println(mObject12);
+        System.out.println(mObject13);
+        System.out.println(mObject14);
+        System.out.println(mObject15);
+        System.out.println(mObject16);
+        System.out.println(mObject17);
     }
 }
