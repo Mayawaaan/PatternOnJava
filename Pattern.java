@@ -17,6 +17,9 @@ public class Pattern {
         Pattern15 mObject15 = new Pattern15(5);
         Pattern16 mObject16 = new Pattern16(5);
         Pattern17 mObject17 = new Pattern17(5);
+        Pattern18 mObject18 = new Pattern18(5);
+        Pattern19 mObject19 = new Pattern19(5);
+        Pattern20 mObject20 = new Pattern20(5);
         System.out.println(mObject1);
         System.out.println(mObject2);
         System.out.println(mObject3);
@@ -34,5 +37,8 @@ public class Pattern {
         System.out.println(mObject15);
         System.out.println(mObject16);
         System.out.println(mObject17);
+        System.out.println(mObject18);
+        System.out.println(mObject19);
+        System.out.println(mObject20);
     }
 }
